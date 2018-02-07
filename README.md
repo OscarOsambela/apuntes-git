@@ -10,4 +10,8 @@ muestra el historial del proyecto
 
 esta linea ha sido modificada en la linea master
 
+<<<<<<< HEAD
 estamos agregando un cambio dentro de rama_1
+=======
+se agrego un cambio dentro de la rama_2
+>>>>>>> rama_2
