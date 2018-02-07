@@ -6,3 +6,6 @@
 3.confirmar los cambios, lo que toma los archivos tal y como estan en el area e preparacion y almacena esa copia instantanea de manera permanente en tu directorio git.
 
 muestra el historial del proyecto   
+
+
+esta linea ha sido modificada en la linea master
